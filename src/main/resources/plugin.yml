@@ -1,0 +1,6 @@
+name: DEPlugin
+version: @version@
+main: com.gmail.nextsisui.deplugin.deplugin.DEPlugin
+authors: [NextSisui]
+description: DEPlugin for Sisui Server
+website: http://5craft.blog.jp/
